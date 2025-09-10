@@ -50,7 +50,7 @@ export default function Page() {
           transition={{ duration: 1 }}
           className="text-4xl md:text-7xl font-extrabold tracking-wide drop-shadow-lg bg-clip-text text-transparent bg-gradient-to-r from-pink-400 via-yellow-300 to-red-500"
         >
-          双双 · 柒柒 · 六道
+          柒柒是傻屌！！！
         </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
@@ -58,7 +58,7 @@ export default function Page() {
           transition={{ delay: 1 }}
           className="mt-4 md:mt-6 text-base md:text-lg text-slate-300"
         >
-          —— 一场中二的冒险，正在展开……
+          柒柒是傻屌……
         </motion.p>
       </div>
 
@@ -73,11 +73,11 @@ export default function Page() {
           className="bg-gradient-to-r from-purple-600/40 to-pink-600/40 rounded-2xl p-4 md:p-6 shadow-lg backdrop-blur border border-white/10"
         >
           <h2 className="text-xl md:text-2xl font-bold text-pink-300">
-            第一幕 · 双双的火焰之眼 🔥
+            双双是傻屌！！！！ 🔥
           </h2>
           <p className="mt-2 md:mt-3 leading-relaxed text-sm md:text-base">
-            双双本是一个普通少女，却在某个雷雨夜觉醒了「火焰之眼」。
-            她能看见隐藏在世界缝隙里的黑暗生物，并以炽烈火焰将它们驱逐。
+            双双本是一个普通扶他，却在某个雷雨夜觉醒了「恶魔之眼」。
+            她能看见隐藏在世界缝隙里的黑暗生物，并张开双手迎接它们。
           </p>
         </motion.div>
 
@@ -90,11 +90,11 @@ export default function Page() {
           className="bg-gradient-to-r from-indigo-600/40 to-cyan-600/40 rounded-2xl p-4 md:p-6 shadow-lg backdrop-blur border border-white/10"
         >
           <h2 className="text-xl md:text-2xl font-bold text-cyan-300">
-            第二幕 · 柒柒的时空羽翼 ⏳
+            第二幕 · 柒柒更是傻屌！！！ ⏳
           </h2>
           <p className="mt-2 md:mt-3 leading-relaxed text-sm md:text-base">
-            柒柒背生一对「时空羽翼」，能穿越未来与过去。
-            但她必须消耗寿命才能展开双翼，每次振翅都是与命运的豪赌。
+            柒柒背生一对「触手之翼」，能穿越未来与过去。
+            但她必须消耗寿命才能展开双翼，每次振翅都是与命运的豪猪！
           </p>
         </motion.div>
 
@@ -107,11 +107,11 @@ export default function Page() {
           className="bg-gradient-to-r from-red-600/40 to-yellow-600/40 rounded-2xl p-4 md:p-6 shadow-lg backdrop-blur border border-white/10"
         >
           <h2 className="text-xl md:text-2xl font-bold text-yellow-300">
-            第三幕 · 六道的混沌锁链 ⚔️
+            第三幕 · 六道也是傻屌！！！ ⚔️
           </h2>
           <p className="mt-2 md:mt-3 leading-relaxed text-sm md:text-base">
-            六道手持一条「混沌锁链」，能束缚万物，但一旦失控，也会反噬自身。
-            他是三人中最危险，也是最可靠的伙伴。
+            六道手持一条「混沌之鞭」，能束缚万物，但一旦失控，也会反噬自身。
+            他是三人中最危险，也是最可靠的家伙。
           </p>
         </motion.div>
 
@@ -124,10 +124,10 @@ export default function Page() {
           className="text-center mt-12 md:mt-16"
         >
           <p className="text-xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-400 via-purple-300 to-cyan-300 drop-shadow-lg">
-            三人的命运交织在一起，踏上了一段既中二、又绚烂的冒险！
+            三人缠斗了在一起！
           </p>
           <p className="mt-3 md:mt-4 text-slate-400 text-sm md:text-base">
-            （未完待续…… 点击屏幕释放烟花 ✨）
+            （反正都是傻屌✨）
           </p>
         </motion.div>
       </div>
